@@ -19,7 +19,7 @@ main(){
   });
   
   test('Nomi delle carte',(){
-    expect('Asso di Fiori', equals(c.nomeCarta()));
+    expect('Asso di Cuori', equals(c.nomeCarta()));
   });
   
 }
